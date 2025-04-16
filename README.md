@@ -25,7 +25,7 @@ This is a simple graphical user interface (GUI) application built with Python's 
 
 ## Installation
 
-No specific installation is required. Save the provided code as a `.py` file (e.g., `mile_to_km.py`) and run it using a Python interpreter.
+No specific installation is required. Save the provided code as a `.py` file (e.g., `miles_to_km_converter.py`) and run it using a Python interpreter.
 
 ## Code Explanation
 
